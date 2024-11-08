@@ -1,4 +1,4 @@
-# Demographics & Admission SQL
+# Exploratory data analysis of an Hospital Admission using SQL
 ---
 
 ![Screenshot 2024-11-03 174649](https://github.com/user-attachments/assets/00456298-4acc-40b4-9eb4-11bc26a4e56d)
