@@ -1,7 +1,6 @@
 # Exploratory data analysis of an Hospital Admission using SQL
----
 
-![Screenshot 2024-11-03 174649](https://github.com/user-attachments/assets/00456298-4acc-40b4-9eb4-11bc26a4e56d)
+---
 
 ---
 
@@ -33,7 +32,6 @@ The **Demographics & Admissions** dataset comprises of a variety of fields relat
 This project utilized the following tools and technologies:
 - **Database Management System (DBMS)**: To host and query the dataset.
 - **SQL**: For data extraction and analysis
-- **Tableau**: For interactive dashboard creation and data visualization.
 
 ---
 
